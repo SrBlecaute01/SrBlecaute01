@@ -1,4 +1,4 @@
-<h1 align="center">SrBlecaute <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"/>
+<h1 align="center"><strong><em>SrBlecaute</em></strong> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"/>
 	<br>
 	<br>
 	<img src="https://img.shields.io/badge/-SrBlecaute%238859-000?style=for-the-badge&amp;logo=Discord&amp;logoColor=white"/>
@@ -6,7 +6,8 @@
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=SrBlecaute01?style=for-the-badge" width="97" height="29"/>
 	<br>
 	<br>
-	⚡ Technologies<i/>
+	<div>
+	<em>⚡ Technologies<em/>
 	<br>
 	<br>
 	<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -21,4 +22,5 @@
 		<img src="https://github-readme-stats.vercel.app/api?username=srblecaute01&show_icons=true&theme=radical" height="165px">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srblecaute01&show_icons=true&theme=radical" height="165px">
 	</p>
+	</div>
 </h1>
