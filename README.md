@@ -3,7 +3,6 @@
 	<br>
 	<img src="https://img.shields.io/badge/-SrBlecaute%239581-000?style=for-the-badge&amp;logo=Discord&amp;logoColor=white"/>
 	<a href="https://open.spotify.com/user/fyvgujfms0xl6hvr9bdkvx8vp" target="_blank"><img alt="Spotfy" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&amp;logo=spotify&amp;logoColor=white"/></a>
-	<img src="https://visitor-badge.laobi.icu/badge?page_id=SrBlecaute01?style=for-the-badge" width="97" height="29"/>
 	<br>
 	<br>
 	<div>
