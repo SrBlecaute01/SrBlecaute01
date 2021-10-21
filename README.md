@@ -19,8 +19,8 @@
 	<br>
 	<p align="center">
 		<br>
-		<img src="https://github-readme-stats.vercel.app/api?username=SrBlecaute01&show_icons=true&theme=radical&count_private=true" height="165px">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrBlecaute01&show_icons=true&theme=radical&count_private=true" height="165px">
+		<img src="https://raw.githubusercontent.com/SrBlecaute01/github-stats-transparent/output/generated/overview.svg" height="225px">
+		<img src="https://raw.githubusercontent.com/SrBlecaute01/github-stats-transparent/output/generated/languages.svg" height="225px">
 	</p>
 	</div>
 </h1>
