@@ -19,8 +19,8 @@
 	<br>
 	<p align="center">
 		<br>
-		<img src="https://raw.githubusercontent.com/SrBlecaute01/github-stats-transparent/output/generated/overview.svg" height="225px">
-		<img src="https://raw.githubusercontent.com/SrBlecaute01/github-stats-transparent/output/generated/languages.svg" height="225px">
+		<img src="https://github.com/SrBlecaute01/github-stats-transparent/blob/output/generated/overview.svg" height="225px">
+		<img src="https://github.com/SrBlecaute01/github-stats-transparent/blob/output/generated/languages.svg" height="225px">
 	</p>
 	</div>
 </h1>
