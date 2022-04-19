@@ -15,9 +15,9 @@
 	<img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor%23ffffff"/>
 	<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 	<br>
-	<img alt="Windows" src="https://img.shields.io/badge/-Windows-00A4EF?style=for-the-badge&logo=windows&logoColor=23ffffff"/>
 	<img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff"/>
 	<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor%23ffffff"/>
+	<img alt="Windows" src="https://img.shields.io/badge/-Windows-00A4EF?style=for-the-badge&logo=windows&logoColor=23ffffff"/>
 	<br>
 	<p align="center">
 		<br>
