@@ -1,4 +1,4 @@
-<h1 align="center"><strong><em>José Arnaldo</em></strong> <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"/>
+<h1 align="center"><strong><em>José Arnaldo</em></strong>
 	<br>
 	<br>
 	<img src="https://img.shields.io/badge/-SrBlecaute%239581-000?style=for-the-badge&amp;logo=Discord&amp;logoColor=white"/>
