@@ -23,6 +23,5 @@
 		<br>
 		<img src="https://github.com/SrBlecaute01/github-stats-transparent/blob/output/generated/overview.svg" height="225px">
 		<img src="https://github.com/SrBlecaute01/github-stats-transparent/blob/output/generated/languages.svg" height="225px">
-		<img src="https://github.com/SrBlecaute01/SrBlecaute01/blob/output/github-contribution-grid-snake.svg" height="225px">
 	</p>
 </h1>
